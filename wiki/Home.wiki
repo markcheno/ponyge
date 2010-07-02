@@ -1,4 +1,4 @@
-#summary Home page for PonyGE wiki.
+#Home page for PonyGE wiki.
 
 = Introduction =
 
