@@ -8,7 +8,7 @@ The following are four entries created for various categories in the
 competition; the "Security & Trust" logo was a winner in its category.
 The text was added manually using Inkscape.
 
-[File:http://code.google.com/p/ponyge/downloads/detail?name=nco.png&can=2&q= ]
-[File:http://code.google.com/p/ponyge/downloads/detail?name=st.png&can=2&q= ]
-[File:http://code.google.com/p/ponyge/downloads/detail?name=ssee.png&can=2&q= ]
-[File:http://code.google.com/p/ponyge/downloads/detail?name=nda.png&can=2&q= ]
+[http://code.google.com/p/ponyge/downloads/detail?name=nco.png&can=2&q= ]
+[http://code.google.com/p/ponyge/downloads/detail?name=st.png&can=2&q= ]
+[http://code.google.com/p/ponyge/downloads/detail?name=ssee.png&can=2&q= ]
+[http://code.google.com/p/ponyge/downloads/detail?name=nda.png&can=2&q= ]
