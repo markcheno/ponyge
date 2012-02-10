@@ -1,0 +1,31 @@
+#summary How to install
+
+= Dependencies =
+
+Python and Tk.
+
+==Ubuntu==
+
+For Python3, try:
+
+{{{$ sudo apt-get install python3 python3-tk}}}
+
+For Python2, try:
+
+{{{$ sudo apt-get install python-tk idle-python2.6}}}
+
+==Other Linux distros==
+
+You know what to do.
+
+==Mac==
+
+Python3 is preferred. Get it from
+the [http://www.python.org/download official download page].  If you don't want to install Python3, you can try using Python2, which is pre-installed on the Mac. Some people observe a
+bug with it in which some mouse-clicks have no effect. Let us
+know.
+
+==Windows==
+
+Get Python 2 or 3 from the [http://www.python.org/download official download page]
+	 
