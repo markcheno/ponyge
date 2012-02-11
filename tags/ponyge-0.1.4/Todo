@@ -1,0 +1,52 @@
+- Make README in rst
+
+- Use compile if the evolved function will be used multiple times
+
+- Let fitness return tuples to allow e.g. parsimony preassure
+
+- Enable line breaks in the rules when parsing, i.e. avoid everything on one line
+
+- Print stats to file
+
+- Add a cmdline parameter and code to set the save-directory (and make
+  it automatically if necessary)
+
+- Look at Rangoli: what are the rules? Can we learn from them?
+  http://en.wikipedia.org/wiki/Rangoli
+
+- In L-systems, the main command which changes state without drawing
+  is rotate (aka +/-). The key thing about this is, you can have lots
+  of rotate commands either together, or spread out through the
+  program. Rotation "wraps around", so if you have "too many" +
+  commands, you just end up back at the start. This is a crucial
+  property because it is in the nature of L-systems to sometimes give
+  too many of a particular command. Our colour scheme (now) does the
+  same: it's circular, going from colour1 -> colour2 -> black ->
+  colour1 in 100 steps. The scheme for changing the line-width should
+  do the same. Or maybe there should be just a few possible
+  line-widths.
+
+- Add Jennifer's PonyGE code as a branch.
+
+- Add James' fixed-steps bricks code as a branch.
+
+- July 19 (Erik): add a "spawn" command which can be part of an
+  L-system. When executed, it presumably pushes onto the stack, and
+  starts a new L-system which inherits some similarities from the
+  existing one. Maybe it uses a smaller line-step, to keep the
+  children L-systems smaller? Maybe not.
+
+- July 19 (James): "random canvas". Idea is to evolve a picture as a
+  population rather than a single individual. We remove the grid and
+  allow individuals to have arbitrary xy origins. User can select and
+  kill an individual. A new individual can be added by crossover from
+  selected individuals.
+
+- Use a parser/generator library, maybe
+  http://www.acooke.org/lepl/features.html, to experiment with
+  reverse-mapping from user edits and grammar induction.
+
+- Contact the company who made the Irish EU presidency logos and see
+  if they'd be interested in some kind of endorsement or field-test:
+  http://www.irishtimes.com/newspaper/breaking/2011/1130/breaking53.html.
+  The company was http://www.reddog.ie/
