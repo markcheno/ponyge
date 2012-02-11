@@ -37,4 +37,4 @@ See [http://code.google.com/p/ponyge/source/checkout checkout].
 
 ==From a release==
 
-See [http://code.google.com/p/ponyge/downloads/list downloads} and get the latest zip.
+See [http://code.google.com/p/ponyge/downloads/list downloads] and get the latest zip.
