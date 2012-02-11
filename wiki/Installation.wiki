@@ -28,3 +28,13 @@ bug with it in which some mouse-clicks have no effect. Let us know. In either ca
 ==Windows==
 
 Get Python 2 or 3 from the [http://www.python.org/download official download page]. Tk will be installed along with it.
+
+=Installation=
+
+==From Subversion==
+
+See [http://code.google.com/p/ponyge/source/checkout checkout].
+
+==From a release==
+
+See [http://code.google.com/p/ponyge/downloads/list downloads} and get the latest zip.
